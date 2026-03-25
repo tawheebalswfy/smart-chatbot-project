@@ -1,0 +1,112 @@
+Important : - Please read this document carefully and proceed with the assignment as per your 
+convenience.  
+ 
+About Us  
+ 
+Leadzen  is a growth stage Marktech start -up based out of Mumbai. We use Terabytes of data and AI 
+tools to find leads and prospects that our customers are looking for. We are a sm all team of financial 
+experts and software developers who have dreamed up and built the product. Our product is being 
+used by some of the top banks, insurers and wealth management companies in the country. We have 
+around 50 clients using our product at thi s time. Our plan is to 10x the clients and ARR in the next 18 
+months.  
+Our tech stack is based on Python and React. Our data is split between Elasticsearch, Mongo and 
+Postgres. Deployment is on Azure using Docker. Traefik as our TLS/SSL terminator and Load 
+balancers. Redis is our Message Queue and Caching provider. We use Async processes by default, 
+only falling back to sync processes where we can’t avoid it. We use Huggingface Transformers for all 
+our AI processes. Random Forest is used for most simple ML t asks.  
+ 
+Notes : - Read these points to understand more about your role at Leadzen. In case, if you have more 
+questions, feel free to get in touch with your POC (Point of Contact).  
+• We’re looking for an engineer who would be interested in working on next gen Cypress Automation 
+Testing Tool along with React JavaScript and improving UI/UX of our web application.  
+• This will lead your career path to becoming a Software Development Engineer - Test and Quality 
+Assurance (SDE -T/QA)  
+• You will have opportunities to w ork on other projects involving Jenkins CI/CD, Docker, Azure, and 
+many more to come.  
+• You would be working on building automation tests, improving code coverage, fixing bugs  
+• As per requirements you’re also expected to work on developing new features of our React 
+application  
+• You will have mentors to guide you when required  
+• You will be awarded an offer immediately upon completing the project with minimum criteria 
+matches  
+ 
+ 
+ 
+ 
+ 
+ Pre-requisites : - Html, CSS, JavaScript, React, Git, REST APIs, Cypress.js Aut omation Testing 
+(Optional, but preferred), Typescript (Is a plus)  
+ 
+Objective: The purpose of this assignment is to evaluate a candidate's ability to work with Node.js 
+and React.js, including their skills in making API requests, handling data, and creating a user -
+friendly frontend interfac e. 
+API Endpoint: https://jsonplaceholder.typicode.com/users  
+Assignment Description: You are tasked with creating a web application that retrieves data from a 
+public API and displays it using a React.js frontend. The application will have the following key 
+components:  
+1. Backend  (Node.js):  
+• Create a Node.js s erver using Express.js to serve the frontend and handle API 
+requests.  
+• Set up routes for fetching data from a public API. You can choose any public API 
+you prefer (e.g., a weather API, cryptocurrency data, news API, etc.).  
+• Implement error handling for API r equests and responses.  
+• Parse and format the API data as needed before sending it to the frontend.  
+2. Frontend  (React.js):  
+• Create a React.js application that communicates with the Node.js backend.  
+• Implement a user interface to display the data retrieved from t he API.  
+• Use React components and state management to update the UI when new data is 
+fetched.  
+• Include error handling for any issues that may occur during data retrieval.  
+• Provide a clean and user -friendly design using CSS or a CSS framework of your 
+choice (e .g., Bootstrap, Material -UI). 
+3. Optional  Features  (Choose  at least  one):  
+• Implement client -side filtering or sorting options for the displayed data.  
+• Add pagination to display a limited number of items per page.  
+• Implement a search feature to allow users to search for specific data within the 
+results.  
+• Include unit tests for the React components or Node.js server (testing library and 
+frameworks like Jest or Mocha/Chai).  
+Submission Guidelines:  
+• Create a public GitHub repository to host your project.  
+• Include a README.md file with instructions on how to run the application and any 
+additional information you deem necessary.  
+• Ensure that your code is well -documen ted and follows best practices for Node.js and 
+React.js development.  
+ 
+ Evaluation Criteria: Candidates will be evaluated based on the following criteria:  
+1. Proper API integration and data retrieval.  
+2. Effective error handling for API requests and responses.  
+3. Quality of the React.js frontend, including user interface design and responsiveness.  
+4. Optional feature implementation (if chosen).  
+5. Code organization, readability, and documentation.  
+6. Submission and repository organization.  
+7. Bonus points for unit testing (if implemented).  
+Feel free to customize this assignment based on your specific needs and the level of expertise 
+you are looking for in your candidates. Be sure to provide clear expectations and evaluation 
+criteria to assess the candidates effectively.  
+ 
+API Endpoint: https://jsonplaceholder.typicode.com/users  
+ 
+This can be one of the views, wherein while cli cking additional data can be displayed  
+ 
+ 
+CODE DECODER DEVELOP ER  
+Task -1 
+You are required to replicate an existing application page using the 
+programming language of your choice. The goal is to create a page that we 
+have example. Pay attention to both functionality and aesthetics.  
+Task -2  
+You are required to write code to accomplish a specific task. This task is 
+designed to assess your coding skills and problem -solving ability.  
+LINK : -  www.hackerrank.com/code -decoder -developer -task  
+ 
+ 
+ 
+NOTE  - You are  advised  that both tasks outlined in this assignment are 
+mandatory and must be completed. Each task contributes to the overall 
+assessment and is designed to evaluate different aspects of your skills.  
+ 
+ 
+ 
+ 
+ 

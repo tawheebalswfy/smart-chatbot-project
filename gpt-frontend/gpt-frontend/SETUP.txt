@@ -1,0 +1,6 @@
+open cmd here
+download install node js if not.
+
+npm i //for installing node modules
+
+npm start //to run node server

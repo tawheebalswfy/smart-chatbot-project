@@ -1,0 +1,28 @@
+name: frontend-react
+
+on:
+  push:
+    branches:
+      - main  # Replace with the branch you want to trigger deployment from
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 18.16.1  # Replace with your desired Node.js version
+
+    - name: Install dependencies and deploy to GitHub Pages
+      run: |
+        cd frontend  # Change to your React frontend directory
+        npm install
+        npm start
+      env:
+        REACT_APP_API_URL: ${{ secrets.API_URL }}  # Set your backend API URL as a GitHub secret
+

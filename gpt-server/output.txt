@@ -1,0 +1,113 @@
+Topic: About "Anurag Singh"
+Title: Anurag singh Resume
+ANURAG SINGH
+
+Gurgaon | +919319531330
+anuragsingh2445@gmail.com
+www.linkedin.com/in/anurag2050
+www.youtube.com/TechyRoque
+www.github.com/anuragroque
+
+SKILLS
+
+Programming Languages:
+Java, Python, C/C++, HTML, CSS, JavaScript
+Frameworks: Node.js, Express, Django, Flask, React
+Databases: MySQL, MongoDB
+Web services: JSON, XML, API
+Tools and Technologies:
+Microsoft Azure, Docker , Git, VMware, Wix
+Operating Systems & Hardware:
+Windows, Linux/Ubuntu, Raspberry Pi,
+Networking & Hardware:
+Routers, DNS, SSL/TLS, Network/Hardware Configuration
+Soft Skills: Adaptability, Strong Analytical Thinking,
+Effective Communication, Self-Motivated.
+
+I am a recent graduate passionate about technology, seeking a challenging role in Programming and Networking to gain practical experience. With a creative and organized approach, I thrive in tackling complex projects, particularly in backend programming and networking. I possess strong problem-solving skills and effective communication abilities demonstrated through my YouTube content creation. Excited to contribute my skills and enthusiasm to a dynamic team and drive organizational success.
+
+ACHIEVEMENT
+
+Dexterix 3.0 | Hackathon
+YouTube Channel: 200+ Tech & Programming Videos with over 1.2k+ Subscribers
+Based on the certifications and job titles provided, here are the extracted skills:
+
+Java Programming
+C++ Programming
+SSH and Putty
+Linux/Unix systems
+Kali Linux
+Ethical Hacking
+Penetration Testing
+SQL
+Bash Scripting
+Linux Shell Programming
+Python
+Flask
+Software Engineering
+IT Services
+Data Processing
+These skills showcase your proficiency in various programming languages, Linux systems, ethical hacking, database management, scripting, and software engineering.
+
+
+EDUCATION
+
+Master of Computer Applications (MCA)
+Galgotias College of Engineering & Technology, Greater Noida, UP
+Graduated: 09/2023
+
+Bachelor of Computer Application (BCA)
+Singhania University
+Graduated: 2021 | CGPA: 8.3
+
+Intermediate
+IVEY International School, Firozabad, UP
+Passed: 2018 | Percentage: 63% | Board: CBSE
+
+High School
+Young Scholars Academy, Shikohabad, UP
+Passed: 2016 | Percentage: 72% | Board: CBSE
+
+EXPERIENCE
+Full Stack Developer Intern | Whooper Technologies, Gurgaon
+Aug 2023 – Sep 2023
+Contribute to cross-functional AI, ML, and blockchain projects while skillfully applying MERN stack.
+Collaborate on Live secure Projects including Websites & games, employing advanced cryptography for enhanced engagement.
+Lead full-stack development, amplifying MERN apps for enhanced functionality, highlighting Python and MERN expertise. Including Wix for preproduction site.
+Reason to quit: work culture was not good. I was not able to learn anything new. I was not able to work on my skills. 7 days working. No holidays. No leaves. No Bonuses. No work from home. No work life balance. No job security. No career growth. No management. No team work. No respect. No learning. No work environment. No work satisfaction. No job satisfaction. No work life balance. No work culture. my profile was mern full stack Developer but they are focing to make website on wix and wordpress.
+
+PROJECTS
+
+Personalized Dynamic Chatbot
+Sep 2023 – Present
+Link: https://github.com/AnuragRoque/GPT-Dynamic-ChatBot-React-python
+1.	Designed a versatile and adaptable chatbot powered by GPT-3.5 Turbo to engage    in  dynamic   conversations &    adapt  to user preferences.
+2.	Implemented a user-friendly interface with React, supporting both text and voice input for seamless interaction.
+3.	Python and Flask for the server-side, And REST API for communication.
+4.	Integrated Selenium for web scraping, Offers dynamic responses, expanding its knowledge and capabilities over time.
+Skills: Python, Flask, React, REST API, OpenAI GPT-3.5 Turbo, Speech Recognition, Selenium, Web Scraping, Dynamic Conversation
+
+
+Smart Network Monitoring With NAS
+Mar 2023 – May 2023
+Link: https://github.com/AnuragRoque/Network-Monitoring-With-NAS
+1.
+Implemented secure Raspberry Pi 3 A+ mini server for college Major project. Utilized Open Media Vault, Portainer, and Docker for monitoring, remote access, and file sharing.
+2.
+Prioritized security, privacy, and remote functionality. Integrated Nextcloud for seamless file synchronization and sharing.
+3.
+Optimized performance and streamlined access with Linux OS, external storage, and unique domain DNS forwarding network.
+Skills: Raspberry Pi, Docker, Openmediavault, Portainer, server, remote access, security, Linux, storage, DNS, web app, Networking, SSH & Terminal.
+
+
+Advance Weather Assistant
+Feb 2022 - Apr 2022
+Link: https://github.com/AnuragRoque/Advance-Weather-Assistant
+1.
+Led the development of an Advanced Weather Assistant for a Hackathon (Dexterix 3.0) as part of a collaborative team. Integrated voice assistant, Raspberry Pi sensors, and interactive monitoring website.
+2.
+Optimized system functionality using Python programming with Flask and frameworks. Proficient in IoT, Raspberry Pi, and sensor integration. Prioritized effective communication and streamlined processes.
+3.
+Efficiently analyzed project, showcasing innovation, problem-solving, and leadership. My role was in Backend Development .Fostered cohesive team environment through delegation and coaching.
+Skills: Python, Flask, Django, PuTTY, web development, IOT, Raspberry pi, Sensors, Effective communication, Leadership, Mentoring.
+
